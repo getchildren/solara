@@ -1,0 +1,1 @@
+3.0.0 full rewrite, more stability, auto update. | the version is in beta stage - its normal if any issues appear as theres some error handlers missing

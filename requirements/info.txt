@@ -1,0 +1,3 @@
+executables which bootstrapper downloads for proper work
+depinst.exe - installs dependencies solara requires to work
+updater.exe - updates 3c0cstrapper to latest version

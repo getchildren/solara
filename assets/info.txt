@@ -1,3 +1,3 @@
 solaras original zip file is saved there (Solara.Dir.zip)
 version.txt is latest uploaded solara version
-for now there shouldnt be any other file
+for now there shouldnt be any other files

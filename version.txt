@@ -1,1 +1,1 @@
-3.0.1 fixed solara url
+3.0.0 rollback

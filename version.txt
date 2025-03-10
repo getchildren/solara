@@ -1,1 +1,1 @@
-3.0.1 fixed bootstrapper being broken
+3.0.2 added solara server and api version mismatch check, auto updater added, removed useless variables
